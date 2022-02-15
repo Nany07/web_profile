@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+     <head>
+		<meta charset="utf-8">
+     	<title>Hernany</title>
+		<link rel="stylesheet" href="style.css">
+     </head>
+     <body>
+		<header>
+			<img id="mypic" src="me.jpg" alt="Foto de perfil de Hernany">
+			<h1 id="title">Hernany</h1>
+		</header>
+		<section>
+			<header>
+			  <h2 class="subtitle">Post #1 </h2>
+			</header>
+			<article class="post">
+				<header>
+					<h3 class="post_title">Post #1 </h3>
+					<img src="https://intl-blog.imgix.net/wp-content/uploads/2019/06/14-editores-HTML-gratuitos.jpg?auto=format%2Cenhance&w=600&h=10000" alt="Editando html">
+				</header>
+				<p class="post_content">
+					Desenvolvimento web é o termo utilizado para descrever o desenvolvimento de sites, na Internet ou numa intranet.
+					O profissional que trabalha desenvolvendo websites pode ser um web designer (desenvolvedor do layout) ou um web developer (desenvolvedor de sistemas).
+					O desenvolvimento refere-se a um processo de construção e testes do software especifico para a web, com a finalidade de se obter um conjunto de programas, que satisfazem as funções pretendidas, quer em termos de facilidade de uso ou compatibilidade com outros programas existentes.
+					O desenvolvimento web pode variar desde simples páginas estáticas a aplicações ricas, comércios eletrônicos ou redes sociais. <a href="https://pt.wikipedia.org/wiki/Desenvolvimento_web" target="_blank">Desenvolvedor Web</a>
+				</p>
+			</article>
+		</section>
+		<footer>
+			<ul class="contact_list">
+				<li>
+					<a href="hernanymeg@gmail.com" target="_blank">hernanymeg@gmail.com</a>
+				</li>
+				<li> 
+					<a href="https://www.linkedin.com/in/hernany-gomes-834391228/" target="_blank" >Linkedin</a>
+				</li>
+				<li>
+					<a href="https://github.com/Nany07" target="_blank">GitHub</a>
+				</li>
+			</ul>
+		<footer>
+	 </body>
+</html>
+				
+		
+		
+		
+			
+     </body>
+
+</html>
