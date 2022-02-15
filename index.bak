@@ -12,12 +12,12 @@
 		</header>
 		<section>
 			<header>
-			  <h2 class="subtitle">Post #1 </h2>
+			  <h2 class="subtitle">Desenvolvedor Web </h2>
 			</header>
 			<article class="post">
 				<header>
-					<h3 class="post_title">Post #1 </h3>
-					<img src="https://intl-blog.imgix.net/wp-content/uploads/2019/06/14-editores-HTML-gratuitos.jpg?auto=format%2Cenhance&w=600&h=10000" alt="Editando html">
+					<h3 class="post_title">Desenvolvedor Web </h3>
+					<img src="https://intl-blog.imgix.net/wp-content/uploads/2019/06/14-editores-HTML-gratuitos.jpg?auto=format%2Cenhance&w=600&h=10000" alt="Editando html" class="post_image">
 				</header>
 				<p class="post_content">
 					Desenvolvimento web é o termo utilizado para descrever o desenvolvimento de sites, na Internet ou numa intranet.
